@@ -1,6 +1,6 @@
 # 🚀 The Future in Tech  
 
-<img src="https://github.com/laxmankharel/laxmankharel/blob/main/DSC02112.JPG" width="200" align="right">
+<img src="https://github.com/kahrel92/podcast-test/blob/main/images/DSC02112.JPG?raw=true" width="200" align="right">
 
 Hi, I'm **Laxman Kharel** 👋! A **Software Engineer & AI Enthusiast** passionate about **technology, cybersecurity, and software development**. With a background in **Computer Science**, I enjoy building secure, scalable applications and exploring the latest trends in tech.  
 
@@ -10,7 +10,8 @@ Hi, I'm **Laxman Kharel** 👋! A **Software Engineer & AI Enthusiast** passiona
 - **Career Growth & Learning** 🚀 — Strategies for success in tech  
 - **Tech Ethics & AI Governance** 🔍 — Responsible innovation and security  
 
-Currently, I'm preparing for my **Security+ certification**
+Currently, I'm preparing for my **Security+ certification** 
+
 ---
 
 ## 🌐 Connect with Me  
