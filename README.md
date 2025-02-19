@@ -1,5 +1,7 @@
 # 🚀 The Future in Tech  
 
+<img src="https://github.com/laxmankharel/laxmankharel/blob/main/profile.jpg" width="200" align="right">
+
 Hi, I'm **Laxman Kharel** 👋! A **Software Engineer & AI Enthusiast** passionate about **technology, cybersecurity, and software development**. With a background in **Computer Science**, I enjoy building secure, scalable applications and exploring the latest trends in tech.  
 
 ### 🔹 What I Focus On:
@@ -8,8 +10,7 @@ Hi, I'm **Laxman Kharel** 👋! A **Software Engineer & AI Enthusiast** passiona
 - **Career Growth & Learning** 🚀 — Strategies for success in tech  
 - **Tech Ethics & AI Governance** 🔍 — Responsible innovation and security  
 
-Currently, I'm preparing for my **Security+ certification** and gearing up for my role as an **Associate Pathways Engineer - Software at Northrop Grumman**.  
-
+Currently, I'm preparing for my **Security+ certification** 
 ---
 
 ## 🌐 Connect with Me  
@@ -17,4 +18,3 @@ Currently, I'm preparing for my **Security+ certification** and gearing up for m
 📧 **Email:** laxmankharel06@gmail.com  
 
 🚀 *Let's innovate and shape the future of tech together!*  
-
